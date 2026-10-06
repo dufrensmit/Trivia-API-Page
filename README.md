@@ -1,6 +1,6 @@
 # Desafio Estágio uTech
 
-Desafio para o processo seletivo para estágio na empresa uTech.
+Página web, com frontend e backend, feita para o desafio do processo seletivo para estágio na empresa uTech.
 
 ## Tecnologias
 * **Backend:** Python 3 e Flask
